@@ -4,6 +4,8 @@ Use Grok to create project base and demo how to use flutter work with CipherLab 
 
 Use Intent Mode to receive PDA Data to prevent keyboard event virtual keyboard appears.
 
+key code in the [grokscanner/android/app/src/main/java/com/example/grokscanner](https://github.com/leeichang/grokscanner/tree/main/android/app/src/main/java/com/example/grokscanner)
+
 Include how to hide virtual keyboard in keyboard mode.
 
 ## Getting Started
